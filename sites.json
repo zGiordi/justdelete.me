@@ -1,5 +1,14 @@
 [
     {
+        "name":"VirusTotal",
+        "url":"https://www.virustotal.com/#/settings/profile",
+        "difficulty":"easy",
+        "notes":"login go to your account and settings, go down and you find the button for eliminating the account",
+        "domains": [
+            virustotal.com
+            ]
+    },
+    {
         "name": "4shared",
         "url": "http://www.4shared.com/web/account/settings#overview",
         "difficulty": "easy",
